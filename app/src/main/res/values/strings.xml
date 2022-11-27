@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Homework20</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="verify">verify</string>
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+    <string name="enter_login_and_password">Enter login and password</string>
+    <string name="go_to_registration">Go to registration</string>
+    <string name="choose_login_and_password_and_click_verify">Choose login and password and click verify</string>
+    <string name="welcome_on_main_fragment">Welcome on main fragment</string>
+    <string name="message_login">Fields can\'t be empty, if you don\'t have account click on button *go to registration*</string>
+    <string name="both_fields">Both fields must be filled</string>
+    <string name="verify_successful">verify successful</string>
+    <string name="all_ok">Press Accept if all is ok</string>
+    <string name="cool">cool!</string>
+</resources>
